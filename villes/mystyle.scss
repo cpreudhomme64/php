@@ -1,0 +1,17 @@
+/*  1. Import the initial variable */
+
+@import "../sass/utilities/initial-variables";
+@import "../sass/utilities/functions";
+
+/* 2. Set your own initial variables */
+
+
+$table-background-color: #ffb3b3;
+$table-head-cell-color :  #ffb3b3;
+
+
+
+
+
+/* 6. Import the rest of Bulma */
+@import "../bulma";
